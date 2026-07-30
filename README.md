@@ -100,4 +100,4 @@ This project aims to answer questions such as:
 Economics Student | Aspiring Data Analyst
 
 - GitHub: https://github.com/raulperez-data
-- LinkedIn: *(añádelo cuando tengas la URL definitiva)*
+- LinkedIn: www.linkedin.com/in/raul-perez-romerales
