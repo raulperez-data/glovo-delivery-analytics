@@ -1,42 +1,34 @@
 # 📊 Glovo Delivery Analytics
 
-## Overview
+> End-to-end Data Analytics project inspired by Glovo's delivery operations.
 
-This project simulates the work of a Data Analyst at a food delivery company such as Glovo.
+## 🎯 Project Overview
 
-The objective is to analyze delivery operations using Python, SQL and Power BI, transforming raw data into actionable business insights.
+This project simulates the work of a Data Analyst at a delivery company such as Glovo.
 
-The project is being developed as part of my journey towards a career in Data Analytics.
+Using Python, SQL and Power BI, the objective is to transform raw delivery data into actionable business insights that support operational and strategic decision-making.
 
----
-
-## Tech Stack
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-- Git
-- GitHub
+The project is currently under development and follows a complete analytics workflow, from data collection to dashboard creation.
 
 ---
 
-## Project Goals
+## 🛠️ Tech Stack
 
-The analysis aims to answer business questions such as:
-
-- Which cities generate the highest revenue?
-- What are the busiest ordering hours?
-- Which restaurants perform best?
-- What factors increase delivery cancellations?
-- Which customers generate the highest lifetime value?
+| Technology | Purpose |
+|------------|---------|
+| Python | Data analysis |
+| Pandas | Data cleaning & manipulation |
+| NumPy | Numerical analysis |
+| SQL | Business queries |
+| Power BI | Dashboard creation |
+| Git | Version control |
+| GitHub | Documentation & portfolio |
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 glovo-delivery-analytics/
 
 ├── data/
@@ -56,22 +48,56 @@ glovo-delivery-analytics/
 
 ---
 
-## Current Progress
+## 📈 Business Questions
 
-✅ Repository created
+This project aims to answer questions such as:
 
-✅ Professional project structure completed
-
-🚧 Data collection in progress
+- Which cities generate the highest revenue?
+- What are the busiest ordering hours?
+- Which restaurants perform best?
+- What factors increase delivery cancellations?
+- Which customers generate the highest lifetime value?
+- How can delivery operations be optimized?
 
 ---
 
-## Author
+## 🚀 Project Roadmap
+
+- ✅ Repository created
+- ✅ Professional folder structure
+- ⏳ Data collection
+- ⏳ Data cleaning
+- ⏳ Exploratory Data Analysis (EDA)
+- ⏳ SQL business analysis
+- ⏳ Power BI dashboard
+- ⏳ Business recommendations
+
+---
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Analytics
+- SQL
+- Dashboard Design
+- Data Visualization
+- Git & GitHub
+- Analytical Thinking
+
+---
+
+## 📸 Dashboard Preview
+
+*Coming soon...*
+
+---
+
+## 👨‍💻 Author
 
 **Raúl Pérez Romerales**
 
 Economics Student | Aspiring Data Analyst
 
-GitHub:
-
-https://github.com/raulperez-data
+- GitHub: https://github.com/raulperez-data
+- LinkedIn: *(añádelo cuando tengas la URL definitiva)*
